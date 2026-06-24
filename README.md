@@ -10,7 +10,7 @@ Automatizar o processo de monitoramento e envio de notificações, garantindo ma
 
 ## 🏗️ Arquitetura
 
-![Arquitetura](docs/arquitetura.png)
+![Arquitetura](docs/Arquitetura.png)
 
 Fluxo:
 1. Databricks executa job de monitoramento
